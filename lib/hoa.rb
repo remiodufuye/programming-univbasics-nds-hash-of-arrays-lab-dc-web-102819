@@ -10,6 +10,6 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   
-  show[:temperature] << 76 #=> [75, 80, 72, 76]
+  show[:third_earthers] << 76 
   
 end
