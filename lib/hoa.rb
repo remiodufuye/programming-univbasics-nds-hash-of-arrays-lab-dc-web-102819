@@ -10,6 +10,6 @@ def add_character(show, name)
   # Write your implementation here
   # Should return the array of the 'show' argument
   
-  daily_weather[:temperature] << 76 #=> [75, 80, 72, 76]
+  show[:temperature] << 76 #=> [75, 80, 72, 76]
   
 end
